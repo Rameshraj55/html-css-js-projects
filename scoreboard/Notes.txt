@@ -1,0 +1,38 @@
+Scoreboard logic: 
+ i] No negative scores
+ ii] zero is least score of the team
+ iii] inc,dec,reset buttons
+ iv] 
+
+TAKEAWAYS
+GOLDEN RULES FOR ELEMENT DESIGN IN CSS
+*** SIZE CHANGE *** WIDTH-HEIGHT-MARGIN-TRBL-PADDING-MIN,MAX-
+*** POSITION CHANGE *** - ALIGNMENT - TRANSFORM 
+*** COLOR CHANGE ***
+*** BORDER *** RADIUS-THICKNESS-COLOR
+*** BACKGROUND CHANGE ***
+*** FONT CHANGE *** FAMILY-SIZE-STYLE-COLOR
+*** ANIMATION *** - HOVER -
+
+
+
+HTML
+ - self-closing tags in HTML5 is: { area, base, br, col, embed, hr, img, 
+    input, keygen, link, meta, param, source, track, and wbr }
+
+ - we can create js functions in onclick buttons
+ - use id for unique featues
+ - use class for common featues
+
+ CSS
+ - function---> linear-gradient(color1 percentage%, color2 percentage%)
+ - https://mycolor.space/ # picking Color gradient
+ - We use percentage on Postioning(e.g: 50%,50%) makes the element in center
+ - If you button element you should use cursor:pointer property
+ - accesing order in css ".classname elementname"
+ - padding 4 types of values---> T R B L, T R=L B, T=B R=L, T=R=B=L   
+ - 
+
+ JS
+ - we call js functions in onclick attribute from button element
+ - 

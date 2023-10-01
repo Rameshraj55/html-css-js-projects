@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body {
+    height: 100vh;
+    background: linear-gradient(#21803a 50%,#0a0a0a 50%);
+}
+.scoreboard {
+    background-color: #1e1e21;
+    width: min(90%, 34em);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%; top:50%; 
+    padding: 3em;
+    border-radius: 0.5em;
+    display: grid;
+    grid-template-columns:2fr 1fr 2fr;
+    align-items: center;
+}
+.team {
+    text-align: center;
+    background-color: #353638;
+    padding: 1em;
+    border-radius: .8em;
+}
+button {
+    cursor: pointer;
+}
+
+#reset-btn {
+    height: 5em; width: 5em; 
+    margin: auto;
+    color: #07e387;
+    background-color: transparent;
+    border: 3px solid #07e387;
+    border-radius: 0.5em;
+}
+
+.team h2 {
+    color: #07e387;
+}
+.team p {
+    color: white;
+    font-size: 4em;
+}
+.btn-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.team button {
+    padding: 0.3em 0.7em;
+    background-color: #07e387;
+    border: none;
+    outline: none;
+    border-radius: 0.3em;
+    font-size: 1.3em; font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

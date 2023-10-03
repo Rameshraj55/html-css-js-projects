@@ -1,0 +1,20 @@
+TEXT SIMLARITY CHECKER IDEAS & LOGIC:
+    i] text input
+    ii] comapring the text
+    iii] calculating match percentage
+    iv] Jaccard similarity coefficient
+    v] event listener and triggering
+
+TAKEAWAYS
+
+---HTML---
+ -  for <input> elements CHECK elements: label ;attributes: type,id/class, placeholder
+ -  
+
+
+---CSS---
+ - display ? block
+
+
+---JS---
+ - added .addEventListener(event , () => {} )
